@@ -1,0 +1,37 @@
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python test.py
+treeNode type:  <class 'jsonDataFormatString.TreeNode'>
+treeNode:  <jsonDataFormatString.TreeNode object at 0x0000021695EBA500>
+
+ready for  treeNode.deepVisit():
+Traceback (most recent call last):
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\test.py", line 54, in <module>
+    test_getTreeNode_of_jsonDataFormatString()
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\test.py", line 37, in test_getTreeNode_of_jsonDataFormatString
+    treeNode.deepVisit()
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\jsonDataFormatString.py", line 352, in deepVisit
+    child.deepVisit()
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\jsonDataFormatString.py", line 352, in deepVisit
+    child.deepVisit()
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\jsonDataFormatString.py", line 352, in deepVisit
+    child.deepVisit()
+  [Previous line repeated 241 more times]
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\jsonDataFormatString.py", line 349, in deepVisit
+    self.showCurentNodeInfo_in_log()
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\jsonDataFormatString.py", line 342, in showCurentNodeInfo_in_log
+    LOGGER.info("", raw=True)
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\log.py", line 817, in info
+    self.__log(Logger.__LogTypes[1], msg, *args, **kwargs)
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\log.py", line 720, in __log
+    formatMsg_file = self.__getFormatMsg(logType, logFileFormatter, msg)
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\log.py", line 434, in __getFormatMsg
+    callFrame = self.__getLogCallFrame(logTopLevel)
+  File "D:\holiday\suck\Python\examples\project\JsonParse\src\log.py", line 402, in __getLogCallFrame
+    outerFrames = inspect.getouterframes(inspect.currentframe())
+  File "D:\application\Python\install\Python\Python310\lib\inspect.py", line 1659, in getouterframes
+    framelist.append(FrameInfo(*frameinfo))
+  File "<string>", line 1, in <lambda>
+KeyboardInterrupt
+^C
+D:\holiday\suck\Python\examples\project\JsonParse\src>
+D:\holiday\suck\Python\examples\project\JsonParse\src>

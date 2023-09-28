@@ -1,0 +1,185 @@
+deep: 0
+treePath: /
+parent type: <class 'NoneType'>
+index: 0
+key: None
+value: {'remote-pc': {'server': {'ip': '192.168.0.102', 'port': '10086', 'members': (1, '二', 3)}}, 'duration': '5 * 60 * 1000', 'username': 'user_张三', 'pass_密码_word': '246810', 'members_2': (1, 2, ('3', (5, 6))), 'abc': ('三', [1, {3, '二'}, (4, (5, 6)), False])}
+blockInfo: {'blockType': 'dict', 'blockSymbols': ['{', '}']}
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32
+
+
+deep: 3
+treePath: /cd0/cd0/cd0
+parent type: <class 'jsonDataFormatString.TreeNode'>
+index: 0
+key: ip
+value: 192.168.0.102
+blockInfo: None
+childs type: <class 'list'>
+childs len: 32

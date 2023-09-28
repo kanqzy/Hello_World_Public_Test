@@ -1,0 +1,42 @@
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{('3', (5, 6)), 1, 2}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{1, 2, ('3', (5, 6))}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>python jsonDataConvert.py
+set_1:
+{('3', (5, 6)), 1, 2}
+
+
+D:\holiday\suck\Python\examples\project\JsonParse\src>

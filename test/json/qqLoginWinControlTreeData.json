@@ -1,0 +1,2414 @@
+{
+    "deep": 0,
+    "treePath": "/",
+    "Name": "QQ",
+    "ClassName": "TXGuiFoundation",
+    "ControlType": 50032,
+    "LocalizedControlType": "窗口",
+    "BoundingRectangle": [
+        612,
+        211,
+        744,
+        706
+    ],
+    "IsEnabled": 1,
+    "IsOffscreen": 0,
+    "IsKeyboardFocusable": 0,
+    "HasKeyboardFocus": false,
+    "AccessKey": "",
+    "ProcessId": 5860,
+    "ProviderDescription": "[pid:12496,providerId:0x20065A Main:Nested [pid:5860,providerId:0x20065A Annotation(parent link):Microsoft: Annotation Proxy (unmanaged:uiautomationcore.dll); Main:Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]; Hwnd(parent link):Microsoft: HWND Proxy (unmanaged:uiautomationcore.dll)]",
+    "IsPassword": 0,
+    "HelpText": "",
+    "LegacyIAccessible.ChildId": 0,
+    "LegacyIAccessible.Description": "",
+    "LegacyIAccessible.KeyboardShortcut": "",
+    "LegacyIAccessible.Name": "QQ",
+    "LegacyIAccessible.Role": 9,
+    "LegacyIAccessible.State": 0,
+    "LegacyIAccessible.Value": "",
+    "Toggle.ToggleState": 2,
+    "_start_pos": [
+        612,
+        211
+    ],
+    "_rect": [
+        744,
+        706
+    ],
+    "_relative_start_pos": [
+        0,
+        0
+    ],
+    "childs": [
+        {
+            "index": 0,
+            "childName": "c0",
+            "deep": 1,
+            "treePath": "/c0",
+            "treePath_format": "/c0",
+            "Name": "",
+            "ControlType": 50033,
+            "LocalizedControlType": "窗格",
+            "BoundingRectangle": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "IsEnabled": 1,
+            "IsOffscreen": 1,
+            "IsKeyboardFocusable": 0,
+            "HasKeyboardFocus": false,
+            "AccessKey": "",
+            "ProcessId": 5860,
+            "ProviderDescription": "[pid:5860,providerId:0x0 Annotation:Microsoft: Annotation Proxy (unmanaged:uiautomationcore.dll); Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+            "IsPassword": 0,
+            "HelpText": "",
+            "LegacyIAccessible.ChildId": 1,
+            "LegacyIAccessible.Description": "",
+            "LegacyIAccessible.KeyboardShortcut": "",
+            "LegacyIAccessible.Name": "",
+            "LegacyIAccessible.Role": 16,
+            "LegacyIAccessible.State": 0,
+            "LegacyIAccessible.Value": "",
+            "Toggle.ToggleState": 2,
+            "_start_pos": [
+                0,
+                0
+            ],
+            "_rect": [
+                0,
+                0
+            ],
+            "_relative_start_pos": [
+                -612,
+                -211
+            ],
+            "childs": []
+        },
+        {
+            "index": 1,
+            "childName": "c1",
+            "deep": 1,
+            "treePath": "/c1",
+            "treePath_format": "/c1",
+            "Name": "",
+            "ControlType": 50033,
+            "LocalizedControlType": "窗格",
+            "BoundingRectangle": [
+                620,
+                219,
+                728,
+                690
+            ],
+            "IsEnabled": 1,
+            "IsOffscreen": 0,
+            "IsKeyboardFocusable": 0,
+            "HasKeyboardFocus": false,
+            "AccessKey": "",
+            "ProcessId": 5860,
+            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+            "IsPassword": 0,
+            "HelpText": "",
+            "LegacyIAccessible.ChildId": 0,
+            "LegacyIAccessible.Description": "",
+            "LegacyIAccessible.KeyboardShortcut": "",
+            "LegacyIAccessible.Name": "",
+            "LegacyIAccessible.Role": 16,
+            "LegacyIAccessible.State": 0,
+            "LegacyIAccessible.Value": "",
+            "Toggle.ToggleState": 2,
+            "_start_pos": [
+                620,
+                219
+            ],
+            "_rect": [
+                728,
+                690
+            ],
+            "_relative_start_pos": [
+                8,
+                8
+            ],
+            "childs": [
+                {
+                    "index": 0,
+                    "childName": "c0",
+                    "deep": 2,
+                    "treePath": "/c1/c0",
+                    "treePath_format": "/c1/c0",
+                    "Name": "",
+                    "ControlType": 50033,
+                    "LocalizedControlType": "窗格",
+                    "BoundingRectangle": [
+                        620,
+                        306,
+                        728,
+                        605
+                    ],
+                    "IsEnabled": 1,
+                    "IsOffscreen": 0,
+                    "IsKeyboardFocusable": 0,
+                    "HasKeyboardFocus": false,
+                    "AccessKey": "",
+                    "ProcessId": 5860,
+                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                    "IsPassword": 0,
+                    "HelpText": "",
+                    "LegacyIAccessible.ChildId": 0,
+                    "LegacyIAccessible.Description": "",
+                    "LegacyIAccessible.KeyboardShortcut": "",
+                    "LegacyIAccessible.Name": "",
+                    "LegacyIAccessible.Role": 16,
+                    "LegacyIAccessible.State": 0,
+                    "LegacyIAccessible.Value": "",
+                    "Toggle.ToggleState": 2,
+                    "_start_pos": [
+                        620,
+                        306
+                    ],
+                    "_rect": [
+                        728,
+                        605
+                    ],
+                    "_relative_start_pos": [
+                        8,
+                        95
+                    ],
+                    "childs": [
+                        {
+                            "index": 0,
+                            "childName": "c0",
+                            "deep": 3,
+                            "treePath": "/c1/c0/c0",
+                            "treePath_format": "/c1/c0/c0",
+                            "Name": "",
+                            "ControlType": 50033,
+                            "LocalizedControlType": "窗格",
+                            "BoundingRectangle": [
+                                657,
+                                309,
+                                654,
+                                507
+                            ],
+                            "IsEnabled": 1,
+                            "IsOffscreen": 0,
+                            "IsKeyboardFocusable": 0,
+                            "HasKeyboardFocus": false,
+                            "AccessKey": "",
+                            "ProcessId": 5860,
+                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                            "IsPassword": 0,
+                            "HelpText": "",
+                            "LegacyIAccessible.ChildId": 0,
+                            "LegacyIAccessible.Description": "",
+                            "LegacyIAccessible.KeyboardShortcut": "",
+                            "LegacyIAccessible.Name": "",
+                            "LegacyIAccessible.Role": 16,
+                            "LegacyIAccessible.State": 0,
+                            "LegacyIAccessible.Value": "",
+                            "Toggle.ToggleState": 2,
+                            "_start_pos": [
+                                657,
+                                309
+                            ],
+                            "_rect": [
+                                654,
+                                507
+                            ],
+                            "_relative_start_pos": [
+                                45,
+                                98
+                            ],
+                            "childs": [
+                                {
+                                    "index": 0,
+                                    "childName": "c0",
+                                    "deep": 4,
+                                    "treePath": "/c1/c0/c0/c0",
+                                    "treePath_format": "/c1/c0/c0  /c0",
+                                    "Name": "",
+                                    "ControlType": 50033,
+                                    "LocalizedControlType": "窗格",
+                                    "BoundingRectangle": [
+                                        662,
+                                        315,
+                                        645,
+                                        495
+                                    ],
+                                    "IsEnabled": 1,
+                                    "IsOffscreen": 0,
+                                    "IsKeyboardFocusable": 0,
+                                    "HasKeyboardFocus": false,
+                                    "AccessKey": "",
+                                    "ProcessId": 5860,
+                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                    "IsPassword": 0,
+                                    "HelpText": "",
+                                    "LegacyIAccessible.ChildId": 0,
+                                    "LegacyIAccessible.Description": "",
+                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                    "LegacyIAccessible.Name": "",
+                                    "LegacyIAccessible.Role": 16,
+                                    "LegacyIAccessible.State": 0,
+                                    "LegacyIAccessible.Value": "",
+                                    "Toggle.ToggleState": 2,
+                                    "_start_pos": [
+                                        662,
+                                        315
+                                    ],
+                                    "_rect": [
+                                        645,
+                                        495
+                                    ],
+                                    "_relative_start_pos": [
+                                        50,
+                                        104
+                                    ],
+                                    "childs": [
+                                        {
+                                            "index": 0,
+                                            "childName": "c0",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c0/c0/c0",
+                                            "treePath_format": "/c1/c0/c0  /c0/c0",
+                                            "Name": "",
+                                            "ControlType": 50006,
+                                            "LocalizedControlType": "图像",
+                                            "BoundingRectangle": [
+                                                662,
+                                                315,
+                                                645,
+                                                199
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 1,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 40,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                662,
+                                                315
+                                            ],
+                                            "_rect": [
+                                                645,
+                                                199
+                                            ],
+                                            "_relative_start_pos": [
+                                                50,
+                                                104
+                                            ],
+                                            "childs": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "index": 1,
+                            "childName": "c1",
+                            "deep": 3,
+                            "treePath": "/c1/c0/c1",
+                            "treePath_format": "/c1/c0/c1",
+                            "Name": "",
+                            "ControlType": 50033,
+                            "LocalizedControlType": "窗格",
+                            "BoundingRectangle": [
+                                620,
+                                306,
+                                728,
+                                605
+                            ],
+                            "IsEnabled": 1,
+                            "IsOffscreen": 0,
+                            "IsKeyboardFocusable": 0,
+                            "HasKeyboardFocus": false,
+                            "AccessKey": "",
+                            "ProcessId": 5860,
+                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                            "IsPassword": 0,
+                            "HelpText": "",
+                            "LegacyIAccessible.ChildId": 0,
+                            "LegacyIAccessible.Description": "",
+                            "LegacyIAccessible.KeyboardShortcut": "",
+                            "LegacyIAccessible.Name": "",
+                            "LegacyIAccessible.Role": 16,
+                            "LegacyIAccessible.State": 0,
+                            "LegacyIAccessible.Value": "",
+                            "Toggle.ToggleState": 2,
+                            "_start_pos": [
+                                620,
+                                306
+                            ],
+                            "_rect": [
+                                728,
+                                605
+                            ],
+                            "_relative_start_pos": [
+                                8,
+                                95
+                            ],
+                            "childs": [
+                                {
+                                    "index": 0,
+                                    "childName": "c0",
+                                    "deep": 4,
+                                    "treePath": "/c1/c0/c1/c0",
+                                    "treePath_format": "/c1/c0/c1  /c0",
+                                    "Name": "",
+                                    "ControlType": 50033,
+                                    "LocalizedControlType": "窗格",
+                                    "BoundingRectangle": [
+                                        653,
+                                        306,
+                                        663,
+                                        513
+                                    ],
+                                    "IsEnabled": 1,
+                                    "IsOffscreen": 0,
+                                    "IsKeyboardFocusable": 0,
+                                    "HasKeyboardFocus": false,
+                                    "AccessKey": "",
+                                    "ProcessId": 5860,
+                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                    "IsPassword": 0,
+                                    "HelpText": "",
+                                    "LegacyIAccessible.ChildId": 0,
+                                    "LegacyIAccessible.Description": "",
+                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                    "LegacyIAccessible.Name": "",
+                                    "LegacyIAccessible.Role": 16,
+                                    "LegacyIAccessible.State": 0,
+                                    "LegacyIAccessible.Value": "",
+                                    "Toggle.ToggleState": 2,
+                                    "_start_pos": [
+                                        653,
+                                        306
+                                    ],
+                                    "_rect": [
+                                        663,
+                                        513
+                                    ],
+                                    "_relative_start_pos": [
+                                        41,
+                                        95
+                                    ],
+                                    "childs": [
+                                        {
+                                            "index": 0,
+                                            "childName": "c0",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c0",
+                                            "treePath_format": "/c1/c0/c1  /c0/c0",
+                                            "Name": "",
+                                            "ControlType": 50006,
+                                            "LocalizedControlType": "图像",
+                                            "BoundingRectangle": [
+                                                653,
+                                                306,
+                                                663,
+                                                513
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 3,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 40,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                653,
+                                                306
+                                            ],
+                                            "_rect": [
+                                                663,
+                                                513
+                                            ],
+                                            "_relative_start_pos": [
+                                                41,
+                                                95
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 1,
+                                            "childName": "c1",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c1",
+                                            "treePath_format": "/c1/c0/c1  /c0/c1",
+                                            "Name": "",
+                                            "ControlType": 50006,
+                                            "LocalizedControlType": "图像",
+                                            "BoundingRectangle": [
+                                                653,
+                                                506,
+                                                663,
+                                                600
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 4,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 40,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                653,
+                                                506
+                                            ],
+                                            "_rect": [
+                                                663,
+                                                600
+                                            ],
+                                            "_relative_start_pos": [
+                                                41,
+                                                295
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 2,
+                                            "childName": "c2",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c2",
+                                            "treePath_format": "/c1/c0/c1  /c0/c2",
+                                            "Name": "",
+                                            "ControlType": 50006,
+                                            "LocalizedControlType": "图像",
+                                            "BoundingRectangle": [
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 1,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 5,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 40,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                0,
+                                                0
+                                            ],
+                                            "_rect": [
+                                                0,
+                                                0
+                                            ],
+                                            "_relative_start_pos": [
+                                                -612,
+                                                -211
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 3,
+                                            "childName": "c3",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c3",
+                                            "treePath_format": "/c1/c0/c1  /c0/c3",
+                                            "Name": "",
+                                            "ControlType": 50033,
+                                            "LocalizedControlType": "窗格",
+                                            "BoundingRectangle": [
+                                                653,
+                                                306,
+                                                663,
+                                                513
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 0,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 16,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                653,
+                                                306
+                                            ],
+                                            "_rect": [
+                                                663,
+                                                513
+                                            ],
+                                            "_relative_start_pos": [
+                                                41,
+                                                95
+                                            ],
+                                            "childs": [
+                                                {
+                                                    "index": 0,
+                                                    "childName": "c0",
+                                                    "deep": 6,
+                                                    "treePath": "/c1/c0/c1/c0/c3/c0",
+                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0",
+                                                    "Name": "",
+                                                    "ControlType": 50033,
+                                                    "LocalizedControlType": "窗格",
+                                                    "BoundingRectangle": [
+                                                        653,
+                                                        306,
+                                                        663,
+                                                        513
+                                                    ],
+                                                    "IsEnabled": 1,
+                                                    "IsOffscreen": 0,
+                                                    "IsKeyboardFocusable": 0,
+                                                    "HasKeyboardFocus": false,
+                                                    "AccessKey": "",
+                                                    "ProcessId": 5860,
+                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                    "IsPassword": 0,
+                                                    "HelpText": "",
+                                                    "LegacyIAccessible.ChildId": 0,
+                                                    "LegacyIAccessible.Description": "",
+                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                    "LegacyIAccessible.Name": "",
+                                                    "LegacyIAccessible.Role": 16,
+                                                    "LegacyIAccessible.State": 0,
+                                                    "LegacyIAccessible.Value": "",
+                                                    "Toggle.ToggleState": 2,
+                                                    "_start_pos": [
+                                                        653,
+                                                        306
+                                                    ],
+                                                    "_rect": [
+                                                        663,
+                                                        513
+                                                    ],
+                                                    "_relative_start_pos": [
+                                                        41,
+                                                        95
+                                                    ],
+                                                    "childs": [
+                                                        {
+                                                            "index": 0,
+                                                            "childName": "c0",
+                                                            "deep": 7,
+                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0",
+                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0",
+                                                            "Name": "",
+                                                            "ControlType": 50033,
+                                                            "LocalizedControlType": "窗格",
+                                                            "BoundingRectangle": [
+                                                                653,
+                                                                306,
+                                                                663,
+                                                                513
+                                                            ],
+                                                            "IsEnabled": 1,
+                                                            "IsOffscreen": 0,
+                                                            "IsKeyboardFocusable": 0,
+                                                            "HasKeyboardFocus": false,
+                                                            "AccessKey": "",
+                                                            "ProcessId": 5860,
+                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                            "IsPassword": 0,
+                                                            "HelpText": "",
+                                                            "LegacyIAccessible.ChildId": 0,
+                                                            "LegacyIAccessible.Description": "",
+                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                            "LegacyIAccessible.Name": "",
+                                                            "LegacyIAccessible.Role": 16,
+                                                            "LegacyIAccessible.State": 0,
+                                                            "LegacyIAccessible.Value": "",
+                                                            "Toggle.ToggleState": 2,
+                                                            "_start_pos": [
+                                                                653,
+                                                                306
+                                                            ],
+                                                            "_rect": [
+                                                                663,
+                                                                513
+                                                            ],
+                                                            "_relative_start_pos": [
+                                                                41,
+                                                                95
+                                                            ],
+                                                            "childs": [
+                                                                {
+                                                                    "index": 0,
+                                                                    "childName": "c0",
+                                                                    "deep": 8,
+                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0",
+                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0",
+                                                                    "Name": "",
+                                                                    "ControlType": 50033,
+                                                                    "LocalizedControlType": "窗格",
+                                                                    "BoundingRectangle": [
+                                                                        661,
+                                                                        407,
+                                                                        655,
+                                                                        405
+                                                                    ],
+                                                                    "IsEnabled": 1,
+                                                                    "IsOffscreen": 0,
+                                                                    "IsKeyboardFocusable": 0,
+                                                                    "HasKeyboardFocus": false,
+                                                                    "AccessKey": "",
+                                                                    "ProcessId": 5860,
+                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                    "IsPassword": 0,
+                                                                    "HelpText": "",
+                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                    "LegacyIAccessible.Description": "",
+                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                    "LegacyIAccessible.Name": "",
+                                                                    "LegacyIAccessible.Role": 16,
+                                                                    "LegacyIAccessible.State": 0,
+                                                                    "LegacyIAccessible.Value": "",
+                                                                    "Toggle.ToggleState": 2,
+                                                                    "_start_pos": [
+                                                                        661,
+                                                                        407
+                                                                    ],
+                                                                    "_rect": [
+                                                                        655,
+                                                                        405
+                                                                    ],
+                                                                    "_relative_start_pos": [
+                                                                        49,
+                                                                        196
+                                                                    ],
+                                                                    "childs": [
+                                                                        {
+                                                                            "index": 0,
+                                                                            "childName": "c0",
+                                                                            "deep": 9,
+                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c0",
+                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c0",
+                                                                            "Name": "",
+                                                                            "ControlType": 50033,
+                                                                            "LocalizedControlType": "窗格",
+                                                                            "BoundingRectangle": [
+                                                                                661,
+                                                                                407,
+                                                                                655,
+                                                                                113
+                                                                            ],
+                                                                            "IsEnabled": 1,
+                                                                            "IsOffscreen": 0,
+                                                                            "IsKeyboardFocusable": 0,
+                                                                            "HasKeyboardFocus": false,
+                                                                            "AccessKey": "",
+                                                                            "ProcessId": 5860,
+                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                            "IsPassword": 0,
+                                                                            "HelpText": "",
+                                                                            "LegacyIAccessible.ChildId": 1,
+                                                                            "LegacyIAccessible.Description": "",
+                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                            "LegacyIAccessible.Name": "",
+                                                                            "LegacyIAccessible.Role": 16,
+                                                                            "LegacyIAccessible.State": 0,
+                                                                            "LegacyIAccessible.Value": "",
+                                                                            "Toggle.ToggleState": 2,
+                                                                            "_start_pos": [
+                                                                                661,
+                                                                                407
+                                                                            ],
+                                                                            "_rect": [
+                                                                                655,
+                                                                                113
+                                                                            ],
+                                                                            "_relative_start_pos": [
+                                                                                49,
+                                                                                196
+                                                                            ],
+                                                                            "childs": []
+                                                                        },
+                                                                        {
+                                                                            "index": 1,
+                                                                            "childName": "c1",
+                                                                            "deep": 9,
+                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1",
+                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1",
+                                                                            "Name": "",
+                                                                            "ControlType": 50033,
+                                                                            "LocalizedControlType": "窗格",
+                                                                            "BoundingRectangle": [
+                                                                                661,
+                                                                                567,
+                                                                                645,
+                                                                                194
+                                                                            ],
+                                                                            "IsEnabled": 1,
+                                                                            "IsOffscreen": 0,
+                                                                            "IsKeyboardFocusable": 0,
+                                                                            "HasKeyboardFocus": false,
+                                                                            "AccessKey": "",
+                                                                            "ProcessId": 5860,
+                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                            "IsPassword": 0,
+                                                                            "HelpText": "",
+                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                            "LegacyIAccessible.Description": "",
+                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                            "LegacyIAccessible.Name": "",
+                                                                            "LegacyIAccessible.Role": 16,
+                                                                            "LegacyIAccessible.State": 0,
+                                                                            "LegacyIAccessible.Value": "",
+                                                                            "Toggle.ToggleState": 2,
+                                                                            "_start_pos": [
+                                                                                661,
+                                                                                567
+                                                                            ],
+                                                                            "_rect": [
+                                                                                645,
+                                                                                194
+                                                                            ],
+                                                                            "_relative_start_pos": [
+                                                                                49,
+                                                                                356
+                                                                            ],
+                                                                            "childs": [
+                                                                                {
+                                                                                    "index": 0,
+                                                                                    "childName": "c0",
+                                                                                    "deep": 10,
+                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0",
+                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0",
+                                                                                    "Name": "",
+                                                                                    "ControlType": 50033,
+                                                                                    "LocalizedControlType": "窗格",
+                                                                                    "BoundingRectangle": [
+                                                                                        798,
+                                                                                        567,
+                                                                                        383,
+                                                                                        105
+                                                                                    ],
+                                                                                    "IsEnabled": 1,
+                                                                                    "IsOffscreen": 0,
+                                                                                    "IsKeyboardFocusable": 0,
+                                                                                    "HasKeyboardFocus": false,
+                                                                                    "AccessKey": "",
+                                                                                    "ProcessId": 5860,
+                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                    "IsPassword": 0,
+                                                                                    "HelpText": "",
+                                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                                    "LegacyIAccessible.Description": "",
+                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                    "LegacyIAccessible.Name": "",
+                                                                                    "LegacyIAccessible.Role": 16,
+                                                                                    "LegacyIAccessible.State": 0,
+                                                                                    "LegacyIAccessible.Value": "",
+                                                                                    "Toggle.ToggleState": 2,
+                                                                                    "_start_pos": [
+                                                                                        798,
+                                                                                        567
+                                                                                    ],
+                                                                                    "_rect": [
+                                                                                        383,
+                                                                                        105
+                                                                                    ],
+                                                                                    "_relative_start_pos": [
+                                                                                        186,
+                                                                                        356
+                                                                                    ],
+                                                                                    "childs": [
+                                                                                        {
+                                                                                            "index": 0,
+                                                                                            "childName": "c0",
+                                                                                            "deep": 11,
+                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c0",
+                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c0",
+                                                                                            "Name": "",
+                                                                                            "ControlType": 50033,
+                                                                                            "LocalizedControlType": "窗格",
+                                                                                            "BoundingRectangle": [
+                                                                                                798,
+                                                                                                570,
+                                                                                                383,
+                                                                                                42
+                                                                                            ],
+                                                                                            "IsEnabled": 1,
+                                                                                            "IsOffscreen": 0,
+                                                                                            "IsKeyboardFocusable": 0,
+                                                                                            "HasKeyboardFocus": false,
+                                                                                            "AccessKey": "",
+                                                                                            "ProcessId": 5860,
+                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                            "IsPassword": 0,
+                                                                                            "HelpText": "",
+                                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                                            "LegacyIAccessible.Description": "",
+                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                            "LegacyIAccessible.Name": "",
+                                                                                            "LegacyIAccessible.Role": 16,
+                                                                                            "LegacyIAccessible.State": 0,
+                                                                                            "LegacyIAccessible.Value": "",
+                                                                                            "Toggle.ToggleState": 2,
+                                                                                            "_start_pos": [
+                                                                                                798,
+                                                                                                570
+                                                                                            ],
+                                                                                            "_rect": [
+                                                                                                383,
+                                                                                                42
+                                                                                            ],
+                                                                                            "_relative_start_pos": [
+                                                                                                186,
+                                                                                                359
+                                                                                            ],
+                                                                                            "childs": [
+                                                                                                {
+                                                                                                    "index": 0,
+                                                                                                    "childName": "c0",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c0/c0",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c0/c0",
+                                                                                                    "Name": "QQ号码",
+                                                                                                    "ControlType": 50003,
+                                                                                                    "LocalizedControlType": "组合框",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        798,
+                                                                                                        570,
+                                                                                                        383,
+                                                                                                        36
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "QQ号码",
+                                                                                                    "LegacyIAccessible.Role": 46,
+                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                    "LegacyIAccessible.Value": "203299362",
+                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                    "_start_pos": [
+                                                                                                        798,
+                                                                                                        570
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        383,
+                                                                                                        36
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        186,
+                                                                                                        359
+                                                                                                    ],
+                                                                                                    "childs": [
+                                                                                                        {
+                                                                                                            "index": 0,
+                                                                                                            "childName": "c0",
+                                                                                                            "deep": 13,
+                                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c0/c0/c0",
+                                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c0/c0  /c0",
+                                                                                                            "Name": "",
+                                                                                                            "ControlType": 50004,
+                                                                                                            "LocalizedControlType": "编辑",
+                                                                                                            "BoundingRectangle": [
+                                                                                                                842,
+                                                                                                                571,
+                                                                                                                296,
+                                                                                                                35
+                                                                                                            ],
+                                                                                                            "IsEnabled": 1,
+                                                                                                            "IsOffscreen": 0,
+                                                                                                            "IsKeyboardFocusable": 0,
+                                                                                                            "HasKeyboardFocus": false,
+                                                                                                            "AccessKey": "",
+                                                                                                            "ProcessId": 5860,
+                                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (IAccessible2) (unmanaged:uiautomationcore.dll)]",
+                                                                                                            "IsPassword": 0,
+                                                                                                            "HelpText": "",
+                                                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                                                            "LegacyIAccessible.Description": "",
+                                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                            "LegacyIAccessible.Name": "",
+                                                                                                            "LegacyIAccessible.Role": 42,
+                                                                                                            "LegacyIAccessible.State": 0,
+                                                                                                            "LegacyIAccessible.Value": "203299362",
+                                                                                                            "Toggle.ToggleState": 2,
+                                                                                                            "_start_pos": [
+                                                                                                                842,
+                                                                                                                571
+                                                                                                            ],
+                                                                                                            "_rect": [
+                                                                                                                296,
+                                                                                                                35
+                                                                                                            ],
+                                                                                                            "_relative_start_pos": [
+                                                                                                                230,
+                                                                                                                360
+                                                                                                            ],
+                                                                                                            "childs": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "index": 1,
+                                                                                                    "childName": "c1",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c0/c1",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c0/c1",
+                                                                                                    "Name": "",
+                                                                                                    "ControlType": 50006,
+                                                                                                    "LocalizedControlType": "图像",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        812,
+                                                                                                        578,
+                                                                                                        18,
+                                                                                                        24
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 2,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "",
+                                                                                                    "LegacyIAccessible.Role": 40,
+                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                    "_start_pos": [
+                                                                                                        812,
+                                                                                                        578
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        18,
+                                                                                                        24
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        200,
+                                                                                                        367
+                                                                                                    ],
+                                                                                                    "childs": []
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "index": 1,
+                                                                                            "childName": "c1",
+                                                                                            "deep": 11,
+                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1",
+                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1",
+                                                                                            "Name": "",
+                                                                                            "ControlType": 50033,
+                                                                                            "LocalizedControlType": "窗格",
+                                                                                            "BoundingRectangle": [
+                                                                                                812,
+                                                                                                614,
+                                                                                                354,
+                                                                                                56
+                                                                                            ],
+                                                                                            "IsEnabled": 1,
+                                                                                            "IsOffscreen": 0,
+                                                                                            "IsKeyboardFocusable": 0,
+                                                                                            "HasKeyboardFocus": false,
+                                                                                            "AccessKey": "",
+                                                                                            "ProcessId": 5860,
+                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                            "IsPassword": 0,
+                                                                                            "HelpText": "",
+                                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                                            "LegacyIAccessible.Description": "",
+                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                            "LegacyIAccessible.Name": "",
+                                                                                            "LegacyIAccessible.Role": 16,
+                                                                                            "LegacyIAccessible.State": 0,
+                                                                                            "LegacyIAccessible.Value": "",
+                                                                                            "Toggle.ToggleState": 2,
+                                                                                            "_start_pos": [
+                                                                                                812,
+                                                                                                614
+                                                                                            ],
+                                                                                            "_rect": [
+                                                                                                354,
+                                                                                                56
+                                                                                            ],
+                                                                                            "_relative_start_pos": [
+                                                                                                200,
+                                                                                                403
+                                                                                            ],
+                                                                                            "childs": [
+                                                                                                {
+                                                                                                    "index": 0,
+                                                                                                    "childName": "c0",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1/c0",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1/c0",
+                                                                                                    "Name": "密码",
+                                                                                                    "ControlType": 50033,
+                                                                                                    "LocalizedControlType": "窗格",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        812,
+                                                                                                        631,
+                                                                                                        354,
+                                                                                                        38
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "密码",
+                                                                                                    "LegacyIAccessible.Role": 16,
+                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                    "_start_pos": [
+                                                                                                        812,
+                                                                                                        631
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        354,
+                                                                                                        38
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        200,
+                                                                                                        420
+                                                                                                    ],
+                                                                                                    "childs": [
+                                                                                                        {
+                                                                                                            "index": 0,
+                                                                                                            "childName": "c0",
+                                                                                                            "deep": 13,
+                                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1/c0/c0",
+                                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1/c0  /c0",
+                                                                                                            "Name": "",
+                                                                                                            "ControlType": 50033,
+                                                                                                            "LocalizedControlType": "窗格",
+                                                                                                            "BoundingRectangle": [
+                                                                                                                833,
+                                                                                                                633,
+                                                                                                                333,
+                                                                                                                36
+                                                                                                            ],
+                                                                                                            "IsEnabled": 1,
+                                                                                                            "IsOffscreen": 0,
+                                                                                                            "IsKeyboardFocusable": 0,
+                                                                                                            "HasKeyboardFocus": false,
+                                                                                                            "AccessKey": "",
+                                                                                                            "ProcessId": 5860,
+                                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                            "IsPassword": 0,
+                                                                                                            "HelpText": "",
+                                                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                                                            "LegacyIAccessible.Description": "",
+                                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                            "LegacyIAccessible.Name": "",
+                                                                                                            "LegacyIAccessible.Role": 16,
+                                                                                                            "LegacyIAccessible.State": 0,
+                                                                                                            "LegacyIAccessible.Value": "",
+                                                                                                            "Toggle.ToggleState": 2,
+                                                                                                            "_start_pos": [
+                                                                                                                833,
+                                                                                                                633
+                                                                                                            ],
+                                                                                                            "_rect": [
+                                                                                                                333,
+                                                                                                                36
+                                                                                                            ],
+                                                                                                            "_relative_start_pos": [
+                                                                                                                221,
+                                                                                                                422
+                                                                                                            ],
+                                                                                                            "childs": [
+                                                                                                                {
+                                                                                                                    "index": 0,
+                                                                                                                    "childName": "c0",
+                                                                                                                    "deep": 14,
+                                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1/c0/c0/c0",
+                                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1/c0  /c0/c0",
+                                                                                                                    "Name": "",
+                                                                                                                    "ControlType": 50033,
+                                                                                                                    "LocalizedControlType": "窗格",
+                                                                                                                    "BoundingRectangle": [
+                                                                                                                        833,
+                                                                                                                        633,
+                                                                                                                        299,
+                                                                                                                        36
+                                                                                                                    ],
+                                                                                                                    "IsEnabled": 1,
+                                                                                                                    "IsOffscreen": 0,
+                                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                                    "HasKeyboardFocus": false,
+                                                                                                                    "AccessKey": "",
+                                                                                                                    "ProcessId": 5860,
+                                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                                    "IsPassword": 0,
+                                                                                                                    "HelpText": "",
+                                                                                                                    "LegacyIAccessible.ChildId": 1,
+                                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                                    "LegacyIAccessible.Name": "",
+                                                                                                                    "LegacyIAccessible.Role": 16,
+                                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                                    "_start_pos": [
+                                                                                                                        833,
+                                                                                                                        633
+                                                                                                                    ],
+                                                                                                                    "_rect": [
+                                                                                                                        299,
+                                                                                                                        36
+                                                                                                                    ],
+                                                                                                                    "_relative_start_pos": [
+                                                                                                                        221,
+                                                                                                                        422
+                                                                                                                    ],
+                                                                                                                    "childs": []
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "index": 1,
+                                                                                                                    "childName": "c1",
+                                                                                                                    "deep": 14,
+                                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1/c0/c0/c1",
+                                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1/c0  /c0/c1",
+                                                                                                                    "Name": "",
+                                                                                                                    "ControlType": 50000,
+                                                                                                                    "LocalizedControlType": "按钮",
+                                                                                                                    "BoundingRectangle": [
+                                                                                                                        1141,
+                                                                                                                        633,
+                                                                                                                        23,
+                                                                                                                        24
+                                                                                                                    ],
+                                                                                                                    "IsEnabled": 1,
+                                                                                                                    "IsOffscreen": 0,
+                                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                                    "HasKeyboardFocus": false,
+                                                                                                                    "AccessKey": "",
+                                                                                                                    "ProcessId": 5860,
+                                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                                    "IsPassword": 0,
+                                                                                                                    "HelpText": "",
+                                                                                                                    "LegacyIAccessible.ChildId": 2,
+                                                                                                                    "LegacyIAccessible.Description": "打开软键盘",
+                                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                                    "LegacyIAccessible.Name": "",
+                                                                                                                    "LegacyIAccessible.Role": 43,
+                                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                                    "_start_pos": [
+                                                                                                                        1141,
+                                                                                                                        633
+                                                                                                                    ],
+                                                                                                                    "_rect": [
+                                                                                                                        23,
+                                                                                                                        24
+                                                                                                                    ],
+                                                                                                                    "_relative_start_pos": [
+                                                                                                                        529,
+                                                                                                                        422
+                                                                                                                    ],
+                                                                                                                    "childs": []
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "index": 1,
+                                                                                                    "childName": "c1",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c0/c1/c1",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c0/c1/c1",
+                                                                                                    "Name": "",
+                                                                                                    "ControlType": 50006,
+                                                                                                    "LocalizedControlType": "图像",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        812,
+                                                                                                        635,
+                                                                                                        18,
+                                                                                                        24
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 2,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "",
+                                                                                                    "LegacyIAccessible.Role": 40,
+                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                    "Toggle.ToggleState": 2,
+                                                                                                    "_start_pos": [
+                                                                                                        812,
+                                                                                                        635
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        18,
+                                                                                                        24
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        200,
+                                                                                                        424
+                                                                                                    ],
+                                                                                                    "childs": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "index": 1,
+                                                                                    "childName": "c1",
+                                                                                    "deep": 10,
+                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c1",
+                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c1",
+                                                                                    "Name": "",
+                                                                                    "ControlType": 50033,
+                                                                                    "LocalizedControlType": "窗格",
+                                                                                    "BoundingRectangle": [
+                                                                                        804,
+                                                                                        674,
+                                                                                        554,
+                                                                                        117
+                                                                                    ],
+                                                                                    "IsEnabled": 1,
+                                                                                    "IsOffscreen": 0,
+                                                                                    "IsKeyboardFocusable": 0,
+                                                                                    "HasKeyboardFocus": false,
+                                                                                    "AccessKey": "",
+                                                                                    "ProcessId": 5860,
+                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                    "IsPassword": 0,
+                                                                                    "HelpText": "",
+                                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                                    "LegacyIAccessible.Description": "",
+                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                    "LegacyIAccessible.Name": "",
+                                                                                    "LegacyIAccessible.Role": 16,
+                                                                                    "LegacyIAccessible.State": 0,
+                                                                                    "LegacyIAccessible.Value": "",
+                                                                                    "Toggle.ToggleState": 2,
+                                                                                    "_start_pos": [
+                                                                                        804,
+                                                                                        674
+                                                                                    ],
+                                                                                    "_rect": [
+                                                                                        554,
+                                                                                        117
+                                                                                    ],
+                                                                                    "_relative_start_pos": [
+                                                                                        192,
+                                                                                        463
+                                                                                    ],
+                                                                                    "childs": [
+                                                                                        {
+                                                                                            "index": 0,
+                                                                                            "childName": "c0",
+                                                                                            "deep": 11,
+                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c1/c0",
+                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c1/c0",
+                                                                                            "Name": "",
+                                                                                            "ControlType": 50033,
+                                                                                            "LocalizedControlType": "窗格",
+                                                                                            "BoundingRectangle": [
+                                                                                                804,
+                                                                                                674,
+                                                                                                282,
+                                                                                                75
+                                                                                            ],
+                                                                                            "IsEnabled": 1,
+                                                                                            "IsOffscreen": 0,
+                                                                                            "IsKeyboardFocusable": 0,
+                                                                                            "HasKeyboardFocus": false,
+                                                                                            "AccessKey": "",
+                                                                                            "ProcessId": 5860,
+                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                            "IsPassword": 0,
+                                                                                            "HelpText": "",
+                                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                                            "LegacyIAccessible.Description": "",
+                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                            "LegacyIAccessible.Name": "",
+                                                                                            "LegacyIAccessible.Role": 16,
+                                                                                            "LegacyIAccessible.State": 0,
+                                                                                            "LegacyIAccessible.Value": "",
+                                                                                            "Toggle.ToggleState": 2,
+                                                                                            "_start_pos": [
+                                                                                                804,
+                                                                                                674
+                                                                                            ],
+                                                                                            "_rect": [
+                                                                                                282,
+                                                                                                75
+                                                                                            ],
+                                                                                            "_relative_start_pos": [
+                                                                                                192,
+                                                                                                463
+                                                                                            ],
+                                                                                            "childs": [
+                                                                                                {
+                                                                                                    "index": 0,
+                                                                                                    "childName": "c0",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c1/c0/c0",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c1/c0/c0",
+                                                                                                    "Name": "记住密码",
+                                                                                                    "ControlType": 50002,
+                                                                                                    "LocalizedControlType": "复选框",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        948,
+                                                                                                        680,
+                                                                                                        108,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 2,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "记住密码",
+                                                                                                    "LegacyIAccessible.Role": 44,
+                                                                                                    "LegacyIAccessible.State": 16,
+                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                    "Toggle.ToggleState": 1,
+                                                                                                    "_start_pos": [
+                                                                                                        948,
+                                                                                                        680
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        108,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        336,
+                                                                                                        469
+                                                                                                    ],
+                                                                                                    "childs": []
+                                                                                                },
+                                                                                                {
+                                                                                                    "index": 1,
+                                                                                                    "childName": "c1",
+                                                                                                    "deep": 12,
+                                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c1/c0/c1",
+                                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c1/c0/c1",
+                                                                                                    "Name": "自动登录",
+                                                                                                    "ControlType": 50002,
+                                                                                                    "LocalizedControlType": "复选框",
+                                                                                                    "BoundingRectangle": [
+                                                                                                        807,
+                                                                                                        680,
+                                                                                                        108,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "IsEnabled": 1,
+                                                                                                    "IsOffscreen": 0,
+                                                                                                    "IsKeyboardFocusable": 0,
+                                                                                                    "HasKeyboardFocus": false,
+                                                                                                    "AccessKey": "",
+                                                                                                    "ProcessId": 5860,
+                                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                                    "IsPassword": 0,
+                                                                                                    "HelpText": "",
+                                                                                                    "LegacyIAccessible.ChildId": 3,
+                                                                                                    "LegacyIAccessible.Description": "",
+                                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                                    "LegacyIAccessible.Name": "自动登录",
+                                                                                                    "LegacyIAccessible.Role": 44,
+                                                                                                    "LegacyIAccessible.State": 0,
+                                                                                                    "LegacyIAccessible.Value": "",
+                                                                                                    "Toggle.ToggleState": 0,
+                                                                                                    "_start_pos": [
+                                                                                                        807,
+                                                                                                        680
+                                                                                                    ],
+                                                                                                    "_rect": [
+                                                                                                        108,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "_relative_start_pos": [
+                                                                                                        195,
+                                                                                                        469
+                                                                                                    ],
+                                                                                                    "childs": []
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "index": 1,
+                                                                                            "childName": "c1",
+                                                                                            "deep": 11,
+                                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c0/c1/c1/c1",
+                                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c0/c1  /c1/c1",
+                                                                                            "Name": "找回密码",
+                                                                                            "ControlType": 50000,
+                                                                                            "LocalizedControlType": "按钮",
+                                                                                            "BoundingRectangle": [
+                                                                                                1086,
+                                                                                                680,
+                                                                                                88,
+                                                                                                30
+                                                                                            ],
+                                                                                            "IsEnabled": 1,
+                                                                                            "IsOffscreen": 0,
+                                                                                            "IsKeyboardFocusable": 0,
+                                                                                            "HasKeyboardFocus": false,
+                                                                                            "AccessKey": "",
+                                                                                            "ProcessId": 5860,
+                                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                            "IsPassword": 0,
+                                                                                            "HelpText": "",
+                                                                                            "LegacyIAccessible.ChildId": 2,
+                                                                                            "LegacyIAccessible.Description": "",
+                                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                            "LegacyIAccessible.Name": "找回密码",
+                                                                                            "LegacyIAccessible.Role": 43,
+                                                                                            "LegacyIAccessible.State": 0,
+                                                                                            "LegacyIAccessible.Value": "",
+                                                                                            "Toggle.ToggleState": 2,
+                                                                                            "_start_pos": [
+                                                                                                1086,
+                                                                                                680
+                                                                                            ],
+                                                                                            "_rect": [
+                                                                                                88,
+                                                                                                30
+                                                                                            ],
+                                                                                            "_relative_start_pos": [
+                                                                                                474,
+                                                                                                469
+                                                                                            ],
+                                                                                            "childs": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "index": 1,
+                                                                    "childName": "c1",
+                                                                    "deep": 8,
+                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c1",
+                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c1",
+                                                                    "Name": "",
+                                                                    "ControlType": 50000,
+                                                                    "LocalizedControlType": "按钮",
+                                                                    "BoundingRectangle": [
+                                                                        911,
+                                                                        425,
+                                                                        147,
+                                                                        147
+                                                                    ],
+                                                                    "IsEnabled": 1,
+                                                                    "IsOffscreen": 0,
+                                                                    "IsKeyboardFocusable": 0,
+                                                                    "HasKeyboardFocus": false,
+                                                                    "AccessKey": "",
+                                                                    "ProcessId": 5860,
+                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                    "IsPassword": 0,
+                                                                    "HelpText": "",
+                                                                    "LegacyIAccessible.ChildId": 0,
+                                                                    "LegacyIAccessible.Description": "",
+                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                    "LegacyIAccessible.Name": "",
+                                                                    "LegacyIAccessible.Role": 43,
+                                                                    "LegacyIAccessible.State": 0,
+                                                                    "LegacyIAccessible.Value": "",
+                                                                    "Toggle.ToggleState": 2,
+                                                                    "_start_pos": [
+                                                                        911,
+                                                                        425
+                                                                    ],
+                                                                    "_rect": [
+                                                                        147,
+                                                                        147
+                                                                    ],
+                                                                    "_relative_start_pos": [
+                                                                        299,
+                                                                        214
+                                                                    ],
+                                                                    "childs": [
+                                                                        {
+                                                                            "index": 0,
+                                                                            "childName": "c0",
+                                                                            "deep": 9,
+                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c1/c0",
+                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c1/c0",
+                                                                            "Name": "",
+                                                                            "ControlType": 50033,
+                                                                            "LocalizedControlType": "窗格",
+                                                                            "BoundingRectangle": [
+                                                                                935,
+                                                                                449,
+                                                                                99,
+                                                                                99
+                                                                            ],
+                                                                            "IsEnabled": 1,
+                                                                            "IsOffscreen": 0,
+                                                                            "IsKeyboardFocusable": 0,
+                                                                            "HasKeyboardFocus": false,
+                                                                            "AccessKey": "",
+                                                                            "ProcessId": 5860,
+                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                            "IsPassword": 0,
+                                                                            "HelpText": "",
+                                                                            "LegacyIAccessible.ChildId": 0,
+                                                                            "LegacyIAccessible.Description": "",
+                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                            "LegacyIAccessible.Name": "",
+                                                                            "LegacyIAccessible.Role": 16,
+                                                                            "LegacyIAccessible.State": 0,
+                                                                            "LegacyIAccessible.Value": "",
+                                                                            "Toggle.ToggleState": 2,
+                                                                            "_start_pos": [
+                                                                                935,
+                                                                                449
+                                                                            ],
+                                                                            "_rect": [
+                                                                                99,
+                                                                                99
+                                                                            ],
+                                                                            "_relative_start_pos": [
+                                                                                323,
+                                                                                238
+                                                                            ],
+                                                                            "childs": [
+                                                                                {
+                                                                                    "index": 0,
+                                                                                    "childName": "c0",
+                                                                                    "deep": 10,
+                                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c1/c0/c0",
+                                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c1/c0  /c0",
+                                                                                    "Name": "",
+                                                                                    "ControlType": 50033,
+                                                                                    "LocalizedControlType": "窗格",
+                                                                                    "BoundingRectangle": [
+                                                                                        938,
+                                                                                        452,
+                                                                                        93,
+                                                                                        93
+                                                                                    ],
+                                                                                    "IsEnabled": 1,
+                                                                                    "IsOffscreen": 0,
+                                                                                    "IsKeyboardFocusable": 0,
+                                                                                    "HasKeyboardFocus": false,
+                                                                                    "AccessKey": "",
+                                                                                    "ProcessId": 5860,
+                                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                                    "IsPassword": 0,
+                                                                                    "HelpText": "",
+                                                                                    "LegacyIAccessible.ChildId": 1,
+                                                                                    "LegacyIAccessible.Description": "",
+                                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                                    "LegacyIAccessible.Name": "",
+                                                                                    "LegacyIAccessible.Role": 16,
+                                                                                    "LegacyIAccessible.State": 0,
+                                                                                    "LegacyIAccessible.Value": "",
+                                                                                    "Toggle.ToggleState": 2,
+                                                                                    "_start_pos": [
+                                                                                        938,
+                                                                                        452
+                                                                                    ],
+                                                                                    "_rect": [
+                                                                                        93,
+                                                                                        93
+                                                                                    ],
+                                                                                    "_relative_start_pos": [
+                                                                                        326,
+                                                                                        241
+                                                                                    ],
+                                                                                    "childs": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "index": 1,
+                                                                            "childName": "c1",
+                                                                            "deep": 9,
+                                                                            "treePath": "/c1/c0/c1/c0/c3/c0/c0/c1/c1",
+                                                                            "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c1/c1",
+                                                                            "Name": "",
+                                                                            "ControlType": 50000,
+                                                                            "LocalizedControlType": "按钮",
+                                                                            "BoundingRectangle": [
+                                                                                1008,
+                                                                                522,
+                                                                                27,
+                                                                                27
+                                                                            ],
+                                                                            "IsEnabled": 1,
+                                                                            "IsOffscreen": 0,
+                                                                            "IsKeyboardFocusable": 0,
+                                                                            "HasKeyboardFocus": false,
+                                                                            "AccessKey": "",
+                                                                            "ProcessId": 5860,
+                                                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                            "IsPassword": 0,
+                                                                            "HelpText": "",
+                                                                            "LegacyIAccessible.ChildId": 2,
+                                                                            "LegacyIAccessible.Description": "在线状态: 我在线上",
+                                                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                                                            "LegacyIAccessible.Name": "",
+                                                                            "LegacyIAccessible.Role": 43,
+                                                                            "LegacyIAccessible.State": 0,
+                                                                            "LegacyIAccessible.Value": "",
+                                                                            "Toggle.ToggleState": 2,
+                                                                            "_start_pos": [
+                                                                                1008,
+                                                                                522
+                                                                            ],
+                                                                            "_rect": [
+                                                                                27,
+                                                                                27
+                                                                            ],
+                                                                            "_relative_start_pos": [
+                                                                                396,
+                                                                                311
+                                                                            ],
+                                                                            "childs": []
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "index": 2,
+                                                                    "childName": "c2",
+                                                                    "deep": 8,
+                                                                    "treePath": "/c1/c0/c1/c0/c3/c0/c0/c2",
+                                                                    "treePath_format": "/c1/c0/c1  /c0/c3/c0  /c0/c2",
+                                                                    "Name": "注册帐号",
+                                                                    "ControlType": 50000,
+                                                                    "LocalizedControlType": "按钮",
+                                                                    "BoundingRectangle": [
+                                                                        674,
+                                                                        767,
+                                                                        88,
+                                                                        30
+                                                                    ],
+                                                                    "IsEnabled": 1,
+                                                                    "IsOffscreen": 0,
+                                                                    "IsKeyboardFocusable": 0,
+                                                                    "HasKeyboardFocus": false,
+                                                                    "AccessKey": "",
+                                                                    "ProcessId": 5860,
+                                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                                    "IsPassword": 0,
+                                                                    "HelpText": "",
+                                                                    "LegacyIAccessible.ChildId": 4,
+                                                                    "LegacyIAccessible.Description": "",
+                                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                                    "LegacyIAccessible.Name": "注册帐号",
+                                                                    "LegacyIAccessible.Role": 43,
+                                                                    "LegacyIAccessible.State": 0,
+                                                                    "LegacyIAccessible.Value": "",
+                                                                    "Toggle.ToggleState": 2,
+                                                                    "_start_pos": [
+                                                                        674,
+                                                                        767
+                                                                    ],
+                                                                    "_rect": [
+                                                                        88,
+                                                                        30
+                                                                    ],
+                                                                    "_relative_start_pos": [
+                                                                        62,
+                                                                        556
+                                                                    ],
+                                                                    "childs": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "index": 4,
+                                            "childName": "c4",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c4",
+                                            "treePath_format": "/c1/c0/c1  /c0/c4",
+                                            "Name": "",
+                                            "ControlType": 50033,
+                                            "LocalizedControlType": "窗格",
+                                            "BoundingRectangle": [
+                                                653,
+                                                351,
+                                                663,
+                                                113
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 7,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 16,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                653,
+                                                351
+                                            ],
+                                            "_rect": [
+                                                663,
+                                                113
+                                            ],
+                                            "_relative_start_pos": [
+                                                41,
+                                                140
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 5,
+                                            "childName": "c5",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c5",
+                                            "treePath_format": "/c1/c0/c1  /c0/c5",
+                                            "Name": "",
+                                            "ControlType": 50033,
+                                            "LocalizedControlType": "窗格",
+                                            "BoundingRectangle": [
+                                                802,
+                                                725,
+                                                513,
+                                                68
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 0,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 16,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                802,
+                                                725
+                                            ],
+                                            "_rect": [
+                                                513,
+                                                68
+                                            ],
+                                            "_relative_start_pos": [
+                                                190,
+                                                514
+                                            ],
+                                            "childs": [
+                                                {
+                                                    "index": 0,
+                                                    "childName": "c0",
+                                                    "deep": 6,
+                                                    "treePath": "/c1/c0/c1/c0/c5/c0",
+                                                    "treePath_format": "/c1/c0/c1  /c0/c5/c0",
+                                                    "Name": "",
+                                                    "ControlType": 50000,
+                                                    "LocalizedControlType": "按钮",
+                                                    "BoundingRectangle": [
+                                                        1255,
+                                                        758,
+                                                        33,
+                                                        33
+                                                    ],
+                                                    "IsEnabled": 1,
+                                                    "IsOffscreen": 0,
+                                                    "IsKeyboardFocusable": 0,
+                                                    "HasKeyboardFocus": false,
+                                                    "AccessKey": "",
+                                                    "ProcessId": 5860,
+                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                    "IsPassword": 0,
+                                                    "HelpText": "",
+                                                    "LegacyIAccessible.ChildId": 1,
+                                                    "LegacyIAccessible.Description": "二维码登录",
+                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                    "LegacyIAccessible.Name": "",
+                                                    "LegacyIAccessible.Role": 43,
+                                                    "LegacyIAccessible.State": 0,
+                                                    "LegacyIAccessible.Value": "",
+                                                    "Toggle.ToggleState": 2,
+                                                    "_start_pos": [
+                                                        1255,
+                                                        758
+                                                    ],
+                                                    "_rect": [
+                                                        33,
+                                                        33
+                                                    ],
+                                                    "_relative_start_pos": [
+                                                        643,
+                                                        547
+                                                    ],
+                                                    "childs": []
+                                                },
+                                                {
+                                                    "index": 1,
+                                                    "childName": "c1",
+                                                    "deep": 6,
+                                                    "treePath": "/c1/c0/c1/c0/c5/c1",
+                                                    "treePath_format": "/c1/c0/c1  /c0/c5/c1",
+                                                    "Name": "登录",
+                                                    "ControlType": 50000,
+                                                    "LocalizedControlType": "按钮",
+                                                    "BoundingRectangle": [
+                                                        805,
+                                                        723,
+                                                        365,
+                                                        62
+                                                    ],
+                                                    "IsEnabled": 1,
+                                                    "IsOffscreen": 0,
+                                                    "IsKeyboardFocusable": 0,
+                                                    "HasKeyboardFocus": false,
+                                                    "AccessKey": "",
+                                                    "ProcessId": 5860,
+                                                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                                    "IsPassword": 0,
+                                                    "HelpText": "",
+                                                    "LegacyIAccessible.ChildId": 2,
+                                                    "LegacyIAccessible.Description": "",
+                                                    "LegacyIAccessible.KeyboardShortcut": "",
+                                                    "LegacyIAccessible.Name": "登录",
+                                                    "LegacyIAccessible.Role": 43,
+                                                    "LegacyIAccessible.State": 0,
+                                                    "LegacyIAccessible.Value": "",
+                                                    "Toggle.ToggleState": 2,
+                                                    "_start_pos": [
+                                                        805,
+                                                        723
+                                                    ],
+                                                    "_rect": [
+                                                        365,
+                                                        62
+                                                    ],
+                                                    "_relative_start_pos": [
+                                                        193,
+                                                        512
+                                                    ],
+                                                    "childs": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "index": 6,
+                                            "childName": "c6",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c6",
+                                            "treePath_format": "/c1/c0/c1  /c0/c6",
+                                            "Name": "",
+                                            "ControlType": 50006,
+                                            "LocalizedControlType": "图像",
+                                            "BoundingRectangle": [
+                                                671,
+                                                327,
+                                                111,
+                                                63
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 14,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 40,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                671,
+                                                327
+                                            ],
+                                            "_rect": [
+                                                111,
+                                                63
+                                            ],
+                                            "_relative_start_pos": [
+                                                59,
+                                                116
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 7,
+                                            "childName": "c7",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c7",
+                                            "treePath_format": "/c1/c0/c1  /c0/c7",
+                                            "Name": "",
+                                            "ControlType": 50000,
+                                            "LocalizedControlType": "按钮",
+                                            "BoundingRectangle": [
+                                                1171,
+                                                315,
+                                                46,
+                                                49
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 15,
+                                            "LegacyIAccessible.Description": "设置",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 43,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                1171,
+                                                315
+                                            ],
+                                            "_rect": [
+                                                46,
+                                                49
+                                            ],
+                                            "_relative_start_pos": [
+                                                559,
+                                                104
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 8,
+                                            "childName": "c8",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c8",
+                                            "treePath_format": "/c1/c0/c1  /c0/c8",
+                                            "Name": "",
+                                            "ControlType": 50000,
+                                            "LocalizedControlType": "按钮",
+                                            "BoundingRectangle": [
+                                                1217,
+                                                315,
+                                                45,
+                                                49
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 16,
+                                            "LegacyIAccessible.Description": "最小化",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 43,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                1217,
+                                                315
+                                            ],
+                                            "_rect": [
+                                                45,
+                                                49
+                                            ],
+                                            "_relative_start_pos": [
+                                                605,
+                                                104
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 9,
+                                            "childName": "c9",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c9",
+                                            "treePath_format": "/c1/c0/c1  /c0/c9",
+                                            "Name": "",
+                                            "ControlType": 50000,
+                                            "LocalizedControlType": "按钮",
+                                            "BoundingRectangle": [
+                                                1259,
+                                                315,
+                                                48,
+                                                49
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 17,
+                                            "LegacyIAccessible.Description": "关闭",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 43,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                1259,
+                                                315
+                                            ],
+                                            "_rect": [
+                                                48,
+                                                49
+                                            ],
+                                            "_relative_start_pos": [
+                                                647,
+                                                104
+                                            ],
+                                            "childs": []
+                                        },
+                                        {
+                                            "index": 10,
+                                            "childName": "c10",
+                                            "deep": 5,
+                                            "treePath": "/c1/c0/c1/c0/c10",
+                                            "treePath_format": "/c1/c0/c1  /c0/c10",
+                                            "Name": "",
+                                            "ControlType": 50033,
+                                            "LocalizedControlType": "窗格",
+                                            "BoundingRectangle": [
+                                                653,
+                                                456,
+                                                657,
+                                                453
+                                            ],
+                                            "IsEnabled": 1,
+                                            "IsOffscreen": 0,
+                                            "IsKeyboardFocusable": 0,
+                                            "HasKeyboardFocus": false,
+                                            "AccessKey": "",
+                                            "ProcessId": 5860,
+                                            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                                            "IsPassword": 0,
+                                            "HelpText": "",
+                                            "LegacyIAccessible.ChildId": 19,
+                                            "LegacyIAccessible.Description": "",
+                                            "LegacyIAccessible.KeyboardShortcut": "",
+                                            "LegacyIAccessible.Name": "",
+                                            "LegacyIAccessible.Role": 16,
+                                            "LegacyIAccessible.State": 0,
+                                            "LegacyIAccessible.Value": "",
+                                            "Toggle.ToggleState": 2,
+                                            "_start_pos": [
+                                                653,
+                                                456
+                                            ],
+                                            "_rect": [
+                                                657,
+                                                453
+                                            ],
+                                            "_relative_start_pos": [
+                                                41,
+                                                245
+                                            ],
+                                            "childs": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "index": 1,
+                    "childName": "c1",
+                    "deep": 2,
+                    "treePath": "/c1/c1",
+                    "treePath_format": "/c1/c1",
+                    "Name": "",
+                    "ControlType": 50033,
+                    "LocalizedControlType": "窗格",
+                    "BoundingRectangle": [
+                        1158,
+                        60,
+                        390,
+                        990
+                    ],
+                    "IsEnabled": 1,
+                    "IsOffscreen": 0,
+                    "IsKeyboardFocusable": 0,
+                    "HasKeyboardFocus": false,
+                    "AccessKey": "",
+                    "ProcessId": 5860,
+                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                    "IsPassword": 0,
+                    "HelpText": "",
+                    "LegacyIAccessible.ChildId": 0,
+                    "LegacyIAccessible.Description": "",
+                    "LegacyIAccessible.KeyboardShortcut": "",
+                    "LegacyIAccessible.Name": "",
+                    "LegacyIAccessible.Role": 16,
+                    "LegacyIAccessible.State": 0,
+                    "LegacyIAccessible.Value": "",
+                    "Toggle.ToggleState": 2,
+                    "_start_pos": [
+                        1158,
+                        60
+                    ],
+                    "_rect": [
+                        390,
+                        990
+                    ],
+                    "_relative_start_pos": [
+                        546,
+                        -151
+                    ],
+                    "childs": []
+                },
+                {
+                    "index": 2,
+                    "childName": "c2",
+                    "deep": 2,
+                    "treePath": "/c1/c2",
+                    "treePath_format": "/c1/c2",
+                    "Name": "",
+                    "ControlType": 50020,
+                    "LocalizedControlType": "文本",
+                    "BoundingRectangle": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "IsEnabled": 1,
+                    "IsOffscreen": 1,
+                    "IsKeyboardFocusable": 0,
+                    "HasKeyboardFocus": false,
+                    "AccessKey": "ALT+SPACE",
+                    "ProcessId": 5860,
+                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                    "IsPassword": 0,
+                    "HelpText": "",
+                    "LegacyIAccessible.ChildId": 3,
+                    "LegacyIAccessible.Description": "",
+                    "LegacyIAccessible.KeyboardShortcut": "ALT+SPACE",
+                    "LegacyIAccessible.Name": "",
+                    "LegacyIAccessible.Role": 41,
+                    "LegacyIAccessible.State": 64,
+                    "LegacyIAccessible.Value": "",
+                    "Toggle.ToggleState": 2,
+                    "_start_pos": [
+                        0,
+                        0
+                    ],
+                    "_rect": [
+                        0,
+                        0
+                    ],
+                    "_relative_start_pos": [
+                        -612,
+                        -211
+                    ],
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "childName": "c2",
+            "deep": 1,
+            "treePath": "/c2",
+            "treePath_format": "/c2",
+            "Name": "",
+            "ControlType": 50033,
+            "LocalizedControlType": "窗格",
+            "BoundingRectangle": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "IsEnabled": 1,
+            "IsOffscreen": 1,
+            "IsKeyboardFocusable": 0,
+            "HasKeyboardFocus": false,
+            "AccessKey": "",
+            "ProcessId": 5860,
+            "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+            "IsPassword": 0,
+            "HelpText": "",
+            "LegacyIAccessible.ChildId": 0,
+            "LegacyIAccessible.Description": "",
+            "LegacyIAccessible.KeyboardShortcut": "",
+            "LegacyIAccessible.Name": "",
+            "LegacyIAccessible.Role": 16,
+            "LegacyIAccessible.State": 0,
+            "LegacyIAccessible.Value": "",
+            "Toggle.ToggleState": 2,
+            "_start_pos": [
+                0,
+                0
+            ],
+            "_rect": [
+                0,
+                0
+            ],
+            "_relative_start_pos": [
+                -612,
+                -211
+            ],
+            "childs": [
+                {
+                    "index": 0,
+                    "childName": "c0",
+                    "deep": 2,
+                    "treePath": "/c2/c0",
+                    "treePath_format": "/c2/c0",
+                    "Name": "",
+                    "ControlType": 50000,
+                    "LocalizedControlType": "按钮",
+                    "BoundingRectangle": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "IsEnabled": 1,
+                    "IsOffscreen": 1,
+                    "IsKeyboardFocusable": 0,
+                    "HasKeyboardFocus": false,
+                    "AccessKey": "",
+                    "ProcessId": 5860,
+                    "ProviderDescription": "[pid:5860,providerId:0x0 Main(parent link):Microsoft: MSAA Proxy (unmanaged:uiautomationcore.dll)]",
+                    "IsPassword": 0,
+                    "HelpText": "",
+                    "LegacyIAccessible.ChildId": 3,
+                    "LegacyIAccessible.Description": "",
+                    "LegacyIAccessible.KeyboardShortcut": "",
+                    "LegacyIAccessible.Name": "",
+                    "LegacyIAccessible.Role": 43,
+                    "LegacyIAccessible.State": 0,
+                    "LegacyIAccessible.Value": "",
+                    "Toggle.ToggleState": 2,
+                    "_start_pos": [
+                        0,
+                        0
+                    ],
+                    "_rect": [
+                        0,
+                        0
+                    ],
+                    "_relative_start_pos": [
+                        -612,
+                        -211
+                    ],
+                    "childs": []
+                }
+            ]
+        }
+    ]
+}

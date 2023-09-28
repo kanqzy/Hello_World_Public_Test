@@ -1,0 +1,244 @@
+{
+    "deep": 0,
+    "keyword": "{",
+    "KeywordType": 1,
+    "isBlockKeyword": true,
+    "isPythonBlock": true,
+    "stringInfo": {
+        "content": "{",
+        "index": 0,
+        "rowIndex": 0,
+        "colIndex": 0
+    },
+    "childs": [
+        {
+            "deep": 1,
+            "keyword": "\"",
+            "KeywordType": 1,
+            "isBlockKeyword": true,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "\"",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": [
+                {
+                    "deep": 2,
+                    "keyword": "type",
+                    "KeywordType": 3,
+                    "isBlockKeyword": false,
+                    "isPythonBlock": false,
+                    "stringInfo": {
+                        "content": "type",
+                        "index": -1,
+                        "rowIndex": -1,
+                        "colIndex": -1
+                    },
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "deep": 1,
+            "keyword": ":",
+            "KeywordType": 6,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": ":",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        },
+        {
+            "deep": 1,
+            "keyword": "\"",
+            "KeywordType": 1,
+            "isBlockKeyword": true,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "\"",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": [
+                {
+                    "deep": 2,
+                    "keyword": "file",
+                    "KeywordType": 3,
+                    "isBlockKeyword": false,
+                    "isPythonBlock": false,
+                    "stringInfo": {
+                        "content": "file",
+                        "index": -1,
+                        "rowIndex": -1,
+                        "colIndex": -1
+                    },
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "deep": 1,
+            "keyword": ",",
+            "KeywordType": 7,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": ",",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        },
+        {
+            "deep": 1,
+            "keyword": "\"",
+            "KeywordType": 1,
+            "isBlockKeyword": true,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "\"",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": [
+                {
+                    "deep": 2,
+                    "keyword": "filepath",
+                    "KeywordType": 3,
+                    "isBlockKeyword": false,
+                    "isPythonBlock": false,
+                    "stringInfo": {
+                        "content": "filepath",
+                        "index": -1,
+                        "rowIndex": -1,
+                        "colIndex": -1
+                    },
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "deep": 1,
+            "keyword": ":",
+            "KeywordType": 6,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": ":",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        },
+        {
+            "deep": 1,
+            "keyword": "\"",
+            "KeywordType": 1,
+            "isBlockKeyword": true,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "\"",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": [
+                {
+                    "deep": 2,
+                    "keyword": "D:/book/Python",
+                    "KeywordType": 3,
+                    "isBlockKeyword": false,
+                    "isPythonBlock": false,
+                    "stringInfo": {
+                        "content": "D:/book/Python",
+                        "index": -1,
+                        "rowIndex": -1,
+                        "colIndex": -1
+                    },
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "deep": 1,
+            "keyword": ",",
+            "KeywordType": 7,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": ",",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        },
+        {
+            "deep": 1,
+            "keyword": "\"",
+            "KeywordType": 1,
+            "isBlockKeyword": true,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "\"",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": [
+                {
+                    "deep": 2,
+                    "keyword": "value",
+                    "KeywordType": 3,
+                    "isBlockKeyword": false,
+                    "isPythonBlock": false,
+                    "stringInfo": {
+                        "content": "value",
+                        "index": -1,
+                        "rowIndex": -1,
+                        "colIndex": -1
+                    },
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "deep": 1,
+            "keyword": ":",
+            "KeywordType": 6,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": ":",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        },
+        {
+            "deep": 1,
+            "keyword": "3",
+            "KeywordType": 4,
+            "isBlockKeyword": false,
+            "isPythonBlock": false,
+            "stringInfo": {
+                "content": "3",
+                "index": -1,
+                "rowIndex": -1,
+                "colIndex": -1
+            },
+            "childs": []
+        }
+    ]
+}
